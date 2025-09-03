@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.bg-custom-gradient {
+  background-image: linear-gradient(to top, rgb(0, 126, 119), rgb(203, 251, 241));
+}
+
+.btn {
+  @apply bg-teal-700 hover:bg-teal-800 text-white px-6 sm:px-8 py-2 rounded-full font-bold whitespace-nowrap w-full sm:w-auto;
+}
+
