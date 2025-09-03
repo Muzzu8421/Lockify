@@ -112,7 +112,7 @@ function App() {
         pauseOnHover
         theme="dark"
       />
-      <div className="min-h-screen bg-custom-gradient">
+      <div className="min-h-[100dvh] bg-custom-gradient">
         <Navbar />
         {/* Main Content Wrapper for center alignment and spacing */}
         <main className="flex flex-col items-center mt-5 sm:mt-10 px-4 w-full">
