@@ -194,7 +194,7 @@ function App() {
 
           {/* Credentials Table Container with horizontal scroll on small screens */}
           <section
-            className="md:max-h-95 max-h-115 w-full max-w-4xl bg-white rounded-xl shadow-lg px-2 sm:px-6 py-4 overflow-x-auto"
+            className="md:max-h-85 max-h-108 w-full max-w-4xl bg-white rounded-xl shadow-lg px-2 sm:px-6 py-4 overflow-x-auto"
             aria-label="Stored credentials table"
           >
             <table className="min-w-full table-auto text-left border border-teal-200">
